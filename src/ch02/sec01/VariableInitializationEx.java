@@ -3,6 +3,7 @@ package ch02.sec01;
 public class VariableInitializationEx {
 
 	public static void main(String[] args) {
+		
 		//변수 선언
 		int value;
 		//변수 선언 시 초기화를 꼭 해줘야 쓸 수 있음
