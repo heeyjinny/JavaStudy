@@ -20,4 +20,5 @@ public class VariableScopeEx {
 		//int v3 = v1 + v2 + 5;
 
 	}
+	
 }
